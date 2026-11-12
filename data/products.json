@@ -1,0 +1,380 @@
+[
+  {
+    "id": "FIA-LP-DBL",
+    "name": "FIA Signature Linen Plazo",
+    "category": "Signature Linen Plazo",
+    "price": null,
+    "oldPrice": null,
+    "mainColor": "Dusty Blue",
+    "mainHex": "#587B99",
+    "images": [
+      "/images/linen-plazo/dusty-blue-1.webp",
+      "/images/linen-plazo/dusty-blue-2.webp"
+    ],
+    "variants": [
+      {
+        "id": "FIA-LP-01-RED",
+        "color": "Red",
+        "hex": "#C9223A",
+        "images": [
+          "/images/linen-plazo/red-1.webp",
+          "/images/linen-plazo/red-2.webp",
+          "/images/linen-plazo/red-3.webp",
+          "/images/linen-plazo/red-4.webp"
+        ],
+        "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the red colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false
+      },
+      {
+        "id": "FIA-LP-01-MAV",
+        "color": "Mauve",
+        "hex": "#965176",
+        "images": [
+          "/images/linen-plazo/mauve-1.webp",
+          "/images/linen-plazo/mauve-2.webp",
+          "/images/linen-plazo/mauve-3.webp"
+        ],
+        "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the mauve colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false
+      },
+      {
+        "id": "FIA-LP-01-ASH",
+        "color": "Ash Grey",
+        "hex": "#92919A",
+        "images": [
+          "/images/linen-plazo/ash-grey-1.webp",
+          "/images/linen-plazo/ash-grey-2.webp"
+        ],
+        "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the ash grey colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false
+      },
+      {
+        "id": "FIA-LP-01-BLK",
+        "color": "Black",
+        "hex": "#272428",
+        "images": [
+          "/images/linen-plazo/black-1.webp",
+          "/images/linen-plazo/black-2.webp",
+          "/images/linen-plazo/black-3.webp"
+        ],
+        "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the black colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false
+      },
+      {
+        "id": "FIA-LP-01-ORG",
+        "color": "Orange",
+        "hex": "#E76B2E",
+        "images": [
+          "/images/linen-plazo/orange-1.webp",
+          "/images/linen-plazo/orange-2.webp",
+          "/images/linen-plazo/orange-3.webp"
+        ],
+        "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the orange colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false
+      },
+      {
+        "id": "FIA-LP-01-MUS",
+        "color": "Mustard Yellow",
+        "hex": "#DFAE24",
+        "images": [
+          "/images/linen-plazo/mustard-yellow-1.webp",
+          "/images/linen-plazo/mustard-yellow-2.webp",
+          "/images/linen-plazo/mustard-yellow-3.webp",
+          "/images/linen-plazo/mustard-yellow-4.webp"
+        ],
+        "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the mustard yellow colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false
+      },
+      {
+        "id": "FIA-LP-01-IVR",
+        "color": "Ivory",
+        "hex": "#EEE7D8",
+        "images": [
+          "/images/linen-plazo/ivory-1.webp",
+          "/images/linen-plazo/ivory-2.webp"
+        ],
+        "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the ivory colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false
+      },
+      {
+        "id": "FIA-LP-01-PUR",
+        "color": "Purple",
+        "hex": "#71398F",
+        "images": [
+          "/images/linen-plazo/purple-1.webp"
+        ],
+        "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the purple colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false
+      },
+      {
+        "id": "FIA-LP-01-WHT",
+        "color": "White",
+        "hex": "#F7F7F3",
+        "images": [
+          "/images/linen-plazo/white-1.webp",
+          "/images/linen-plazo/white-2.webp"
+        ],
+        "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the white colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false
+      },
+      {
+        "id": "FIA-LP-01-TUR",
+        "color": "Turquoise",
+        "hex": "#159FBE",
+        "images": [
+          "/images/linen-plazo/turquoise-1.webp",
+          "/images/linen-plazo/turquoise-2.webp",
+          "/images/linen-plazo/turquoise-3.webp",
+          "/images/linen-plazo/turquoise-4.webp",
+          "/images/linen-plazo/turquoise-5.webp"
+        ],
+        "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the turquoise colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false
+      },
+      {
+        "id": "FIA-LP-01-BRY",
+        "color": "Berry",
+        "hex": "#B33367",
+        "images": [
+          "/images/linen-plazo/berry-1.webp"
+        ],
+        "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the berry colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false
+      },
+      {
+        "id": "FIA-LP-01-HPK",
+        "color": "Hot Pink",
+        "hex": "#E94887",
+        "images": [
+          "/images/linen-plazo/hot-pink-1.webp",
+          "/images/linen-plazo/hot-pink-2.webp",
+          "/images/linen-plazo/hot-pink-3.webp"
+        ],
+        "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the hot pink colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false
+      },
+      {
+        "id": "FIA-LP-01-NVY",
+        "color": "Navy Blue",
+        "hex": "#343C7E",
+        "images": [
+          "/images/linen-plazo/navy-blue-1.webp",
+          "/images/linen-plazo/navy-blue-2.webp"
+        ],
+        "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the navy blue colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false
+      },
+      {
+        "id": "FIA-LP-01-PCH",
+        "color": "Peach",
+        "hex": "#EEB18C",
+        "images": [
+          "/images/linen-plazo/peach-1.webp",
+          "/images/linen-plazo/peach-2.webp",
+          "/images/linen-plazo/peach-3.webp"
+        ],
+        "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the peach colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false
+      },
+      {
+        "id": "FIA-LP-01-RBL",
+        "color": "Royal Blue",
+        "hex": "#315AB6",
+        "images": [
+          "/images/linen-plazo/royal-blue-1.webp",
+          "/images/linen-plazo/royal-blue-2.webp"
+        ],
+        "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the royal blue colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false
+      },
+      {
+        "id": "FIA-LP-01-DTL",
+        "color": "Dark Teal",
+        "hex": "#245A59",
+        "images": [
+          "/images/linen-plazo/dark-teal-1.webp",
+          "/images/linen-plazo/dark-teal-2.webp",
+          "/images/linen-plazo/dark-teal-3.webp"
+        ],
+        "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the dark teal colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false
+      },
+      {
+        "id": "FIA-LP-01-BRG",
+        "color": "Burgundy",
+        "hex": "#75283B",
+        "images": [
+          "/images/linen-plazo/burgundy-1.webp"
+        ],
+        "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the burgundy colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false
+      },
+      {
+        "id": "FIA-LP-01-BRN",
+        "color": "Brown",
+        "hex": "#784538",
+        "images": [
+          "/images/linen-plazo/brown-1.webp"
+        ],
+        "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the brown colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false
+      },
+      {
+        "id": "FIA-LP-01-BPK",
+        "color": "Blush Pink",
+        "hex": "#E8A5BE",
+        "images": [
+          "/images/linen-plazo/blush-pink-1.webp",
+          "/images/linen-plazo/blush-pink-2.webp"
+        ],
+        "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the blush pink colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false
+      }
+    ],
+    "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the dusty blue colour; lighting can make a shade look slightly different on your screen.",
+    "fabric": "Linen",
+    "size": "Free size",
+    "design": "Relaxed wide-leg plazo",
+    "featured": false
+  },
+  {
+    "id": "FIA-SP-01",
+    "name": "FIA Swiss Cotton Plazo",
+    "category": "Swiss Cotton Plazo",
+    "price": 400,
+    "oldPrice": 500,
+    "mainColor": "Olive",
+    "mainHex": "#899A55",
+    "images": [
+      "/images/swiss-cotton-plazo/olive-1.webp",
+      "/images/swiss-cotton-plazo/olive-2.webp",
+      "/images/swiss-cotton-plazo/olive-3.webp",
+      "/images/swiss-cotton-plazo/olive-4.webp",
+      "/images/swiss-cotton-plazo/olive-5.webp",
+      "/images/swiss-cotton-plazo/olive-6.webp",
+      "/images/swiss-cotton-plazo/olive-7.webp",
+      "/images/swiss-cotton-plazo/olive-8.webp"
+    ],
+    "variants": [
+      {
+        "id": "FIA-SP-02",
+        "color": "Black",
+        "hex": "#272428",
+        "images": [
+          "/images/swiss-cotton-plazo/black-1.webp",
+          "/images/swiss-cotton-plazo/black-2.webp",
+          "/images/swiss-cotton-plazo/black-3.webp",
+          "/images/swiss-cotton-plazo/black-4.webp",
+          "/images/swiss-cotton-plazo/black-5.webp",
+          "/images/swiss-cotton-plazo/black-6.webp"
+        ],
+        "description": "A Swiss cotton plazo designed for everyday comfort and versatile styling. Elastic waistband with an adjustable matching-fabric tie. Free size. Photos show the black colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false,
+        "price": 400,
+        "oldPrice": 500,
+        "inStock": true
+      },
+      {
+        "id": "FIA-SP-03",
+        "color": "White",
+        "hex": "#F7F7F3",
+        "images": [
+          "/images/swiss-cotton-plazo/white-1.webp",
+          "/images/swiss-cotton-plazo/white-2.webp",
+          "/images/swiss-cotton-plazo/white-3.webp",
+          "/images/swiss-cotton-plazo/white-4.webp",
+          "/images/swiss-cotton-plazo/white-5.webp",
+          "/images/swiss-cotton-plazo/white-6.webp",
+          "/images/swiss-cotton-plazo/white-7.webp",
+          "/images/swiss-cotton-plazo/white-8.webp",
+          "/images/swiss-cotton-plazo/white-9.webp"
+        ],
+        "description": "A Swiss cotton plazo designed for everyday comfort and versatile styling. Elastic waistband with an adjustable matching-fabric tie. Free size. Photos show the white colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false,
+        "price": 400,
+        "oldPrice": 500,
+        "inStock": true
+      },
+      {
+        "id": "FIA-SP-03-MAR",
+        "color": "Burgundy",
+        "hex": "#75283B",
+        "images": [
+          "/images/swiss-cotton-plazo/burgundy-1.webp",
+          "/images/swiss-cotton-plazo/burgundy-2.webp",
+          "/images/swiss-cotton-plazo/burgundy-3.webp",
+          "/images/swiss-cotton-plazo/burgundy-4.webp",
+          "/images/swiss-cotton-plazo/burgundy-5.webp"
+        ],
+        "description": "A Swiss cotton plazo designed for everyday comfort and versatile styling. Elastic waistband with an adjustable matching-fabric tie. Free size. Photos show the burgundy colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false,
+        "price": 400,
+        "oldPrice": 500,
+        "inStock": true
+      }
+    ],
+    "description": "A Swiss cotton plazo designed for everyday comfort and versatile styling. Elastic waistband with an adjustable matching-fabric tie. Free size. Photos show the olive colour; lighting can make a shade look slightly different on your screen.",
+    "fabric": "Swiss cotton",
+    "size": "Free size",
+    "waist": "Elastic waistband with matching-fabric tie",
+    "design": "Relaxed wide-leg plazo",
+    "featured": true,
+    "inStock": true
+  },
+  {
+    "id": "FIA-SK-01",
+    "name": "FIA Swiss Cotton Skirt",
+    "category": "Swiss Cotton Skirt",
+    "price": null,
+    "oldPrice": null,
+    "mainColor": "Black",
+    "mainHex": "#272428",
+    "images": [
+      "/images/swiss-cotton-skirt/black-1.webp",
+      "/images/swiss-cotton-skirt/black-2.webp",
+      "/images/swiss-cotton-skirt/black-3.webp",
+      "/images/swiss-cotton-skirt/black-4.webp",
+      "/images/swiss-cotton-skirt/black-5.webp",
+      "/images/swiss-cotton-skirt/black-6.webp"
+    ],
+    "variants": [
+      {
+        "id": "FIA-SK-01-ROS",
+        "color": "Rose",
+        "hex": "#C35E76",
+        "images": [
+          "/images/swiss-cotton-skirt/rose-1.webp",
+          "/images/swiss-cotton-skirt/rose-2.webp",
+          "/images/swiss-cotton-skirt/rose-3.webp",
+          "/images/swiss-cotton-skirt/rose-4.webp",
+          "/images/swiss-cotton-skirt/rose-5.webp",
+          "/images/swiss-cotton-skirt/rose-6.webp",
+          "/images/swiss-cotton-skirt/rose-7.webp"
+        ],
+        "description": "A flowing Swiss cotton skirt for everyday outfits and easy styling. Free size. Photos show the rose colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false
+      },
+      {
+        "id": "FIA-SK-01-WHT",
+        "color": "White",
+        "hex": "#F7F7F3",
+        "images": [
+          "/images/swiss-cotton-skirt/white-1.webp",
+          "/images/swiss-cotton-skirt/white-2.webp",
+          "/images/swiss-cotton-skirt/white-3.webp",
+          "/images/swiss-cotton-skirt/white-4.webp",
+          "/images/swiss-cotton-skirt/white-5.webp",
+          "/images/swiss-cotton-skirt/white-6.webp",
+          "/images/swiss-cotton-skirt/white-7.webp"
+        ],
+        "description": "A flowing Swiss cotton skirt for everyday outfits and easy styling. Free size. Photos show the white colour; lighting can make a shade look slightly different on your screen.",
+        "featured": false
+      }
+    ],
+    "description": "A flowing Swiss cotton skirt for everyday outfits and easy styling. Free size. Photos show the black colour; lighting can make a shade look slightly different on your screen.",
+    "fabric": "Swiss cotton",
+    "size": "Free size",
+    "design": "Flowing skirt",
+    "featured": false
+  }
+]

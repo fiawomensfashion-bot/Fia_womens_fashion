@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en" data-theme="rose">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>FIA Women's Fashion — Linen Plazos, Swiss Cotton Plazos &amp; Skirts</title>
+  <meta name="description" content="Shop FIA Women's Fashion: Signature Linen Plazos, Swiss Cotton Plazos and Swiss Cotton Skirts in every colour. Quality guaranteed, free replacement. Order on WhatsApp or Messenger.">
+  <meta name="theme-color" content="#FFF5F3">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="FIA Women's Fashion">
+  <meta property="og:title" content="FIA Women's Fashion — Linen Plazos, Swiss Cotton Plazos &amp; Skirts">
+  <meta property="og:description" content="Shop FIA Women's Fashion: Signature Linen Plazos, Swiss Cotton Plazos and Swiss Cotton Skirts in every colour. Quality guaranteed, free replacement. Order on WhatsApp or Messenger.">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='18' fill='%23C9506B'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='38' fill='white' text-anchor='middle'%3EF%3C/text%3E%3C/svg%3E">
+  <!-- Fonts are self-hosted from /assets/fonts (DM Serif Display + Nunito): no request to Google. -->
+  <link rel="preload" href="/assets/fonts/dm-serif-display-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/fonts/nunito-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/fonts/nunito-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin>
+
+  <link rel="stylesheet" href="/assets/site.css">
+</head>
+<body>
+  <a class="skip-link" href="#app" id="skip">Skip to content</a>
+
+  <header class="site-header">
+    <div class="wrap">
+      <a class="logo" href="/#/" id="logo" aria-label="Home">Fia<span class="dot">.</span></a>
+      <nav class="header-nav" aria-label="Main">
+        <a href="/#/" class="hide-xs">Shop</a>
+        <a href="/#/offers" class="hide-xs">Offers</a>
+        <a href="/size-guide/" class="hide-xs">Size Guide</a>
+        <button type="button" class="msg" id="header-msg" data-contact>Message us</button>
+      </nav>
+    </div>
+  </header>
+
+  <main id="app" tabindex="-1"><noscript><div class="wrap"><p>Please turn on JavaScript to browse the FIA catalogue.</p></div></noscript></main>
+
+  <footer class="site-footer">
+    <div class="wrap" id="footer"></div>
+  </footer>
+
+  <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+  <dialog class="photo-zoom" id="photo-zoom" aria-label="Enlarged product photograph">
+    <button id="zoom-close" class="zoom-close" type="button" aria-label="Close enlarged photograph">✕ Close</button>
+    <img id="zoom-image" alt="">
+  </dialog>
+  <dialog class="contact-dialog" id="contact-dialog" aria-labelledby="contact-title">
+    <h2 id="contact-title">Message FIA</h2>
+    <p id="contact-sub">Choose where you would like to chat.</p>
+    <div class="contact-options" id="contact-options"></div>
+    <p class="contact-hint" id="contact-hint"></p>
+    <button type="button" class="contact-close" id="contact-close">Close</button>
+  </dialog>
+
+  <!-- All shop content lives in products.js (generated from data/*.json by the build) -->
+  <script src="/products.js" defer></script>
+  <script src="/image-manifest.js" defer></script>
+  <script src="/assets/site.js" defer></script>
+</body>
+</html>

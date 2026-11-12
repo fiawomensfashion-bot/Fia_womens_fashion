@@ -1,0 +1,15 @@
+{
+  "name": "fia-catalogue",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FIA static catalogue (Cloudflare Pages now, Netlify later) with responsive WebP images",
+  "scripts": {
+    "build": "node scripts/build-catalogue.mjs && node scripts/build-site.mjs"
+  },
+  "dependencies": {
+    "sharp": "0.34.1"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

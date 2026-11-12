@@ -1,0 +1,262 @@
+# FIA catalogue editor for https://app.pagescms.org/
+# This edits JSON data. The host build (npm run build) generates products.js and the site in dist/.
+media:
+  input: images
+  output: /images
+  rename: safe
+  categories: [image]
+
+content:
+  - name: products
+    label: FIA Products
+    type: file
+    path: data/products.json
+    format: json
+    list: true
+    fields:
+      - name: id
+        label: Product Code (unique)
+        type: string
+        required: true
+        description: Example FIA-SCP-BLK-01. Do not reuse codes.
+      - name: name
+        label: Product Name
+        type: string
+        required: true
+      - name: category
+        label: Collection
+        type: select
+        required: true
+        options:
+          values:
+            - name: Signature Linen Plazo
+              label: Signature Linen Plazo
+            - name: Swiss Cotton Plazo
+              label: Swiss Cotton Plazo
+            - name: Swiss Cotton Skirt
+              label: Swiss Cotton Skirt
+      - name: price
+        label: Base Price in Taka (each colour may override)
+        type: number
+        description: Enter verified price in taka, or leave empty to show Ask for price.
+      - name: oldPrice
+        label: Previous Price (optional)
+        type: number
+        description: Only enter if a genuine previous selling price applies.
+      - name: mainColor
+        label: Main Product Colour (optional)
+        type: string
+        description: If the main listing represents one particular colour, enter its name, e.g. Black. Otherwise leave blank and it will appear as "Main product" in the colour selector.
+      - name: mainHex
+        label: Main Product Swatch HEX (optional)
+        type: string
+        description: Example #292929. Leave blank if the main product is a general overview of all colours.
+      - name: variants
+        label: Colours and Photo Galleries
+        type: object
+        description: Add each available colour here. Every colour gets its own listing, photos, price override and stock switch.
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{color} — {id}"
+        fields:
+          - name: id
+            label: Colour Product Code (unique)
+            type: string
+            required: true
+            description: Example FIA-SCP-BLK. Keep it stable; customers use it when ordering.
+          - name: color
+            label: Colour Name
+            type: string
+            required: true
+            description: Example Black, White or Dusty Rose.
+          - name: hex
+            label: Swatch Colour (HEX, optional)
+            type: string
+            description: Example #292929 for black, #FFFFFF for white, #813B4A for maroon.
+          - name: images
+            label: Photos for THIS Colour
+            type: image
+            options:
+              multiple:
+                max: 10
+              unique: true
+              extensions: [jpg, jpeg, png, webp]
+          - name: price
+            label: Colour-Specific Price (optional)
+            type: number
+            description: Leave empty to use the main product price.
+          - name: oldPrice
+            label: Previous Price for THIS Colour (optional)
+            type: number
+          - name: description
+            label: Colour-Specific Description (optional)
+            type: text
+          - name: inStock
+            label: This Colour In Stock (leave unset if unconfirmed)
+            type: boolean
+          - name: featured
+            label: Feature This Colour
+            type: boolean
+      - name: images
+        label: Main Product Photos (show on main listing even when colours exist)
+        type: image
+        options:
+          multiple:
+            max: 8
+          unique: true
+          extensions: [jpg, jpeg, png, webp]
+      - name: description
+        label: Product Description
+        type: text
+      - name: fabric
+        label: Fabric
+        type: string
+      - name: size
+        label: Size / Measurements
+        type: string
+      - name: waist
+        label: Waist / Adjustable Tie
+        type: string
+      - name: colours
+        label: Legacy Colours Description (optional)
+        type: string
+        description: Example Black, White, Rose/Maroon.
+      - name: design
+        label: Design Details
+        type: string
+        description: Example Gathered skirt, front buttons.
+      - name: care
+        label: Care Instructions
+        type: string
+      - name: inStock
+        label: In Stock (leave unset if unconfirmed)
+        type: boolean
+      - name: featured
+        label: Featured (show near top)
+        type: boolean
+
+  - name: offers
+    label: FIA Offers & Guarantees
+    type: file
+    path: data/offers.json
+    format: json
+    list: true
+    fields:
+      - name: title
+        label: Offer Title
+        type: string
+        required: true
+      - name: text
+        label: Offer Details / Terms
+        type: text
+      - name: badge
+        label: Offer Badge
+        type: string
+      - name: ends
+        label: Offer End Date (optional; YYYY-MM-DD)
+        type: string
+
+  - name: settings
+    label: FIA Shop Settings
+    type: file
+    path: data/settings.json
+    format: json
+    fields:
+      - name: shopName
+        label: Shop Name
+        type: string
+      - name: tagline
+        label: Home Page Tagline
+        type: text
+      - name: messengerPage
+        label: Facebook Page Username (NOT the entire URL)
+        type: string
+        description: Verify the username by opening https://m.me/USERNAME.
+      - name: whatsappNumber
+        label: FIA WhatsApp Business Number (international digits only)
+        type: string
+        description: Example for Bangladesh 8801XXXXXXXXX. No plus sign, spaces, or leading zero. Customers choose between WhatsApp and Messenger; each button only appears if its detail is filled in.
+      - name: theme
+        label: Website Colour Theme
+        type: select
+        options:
+          values: [rose, peach, mauve]
+      - name: currency
+        label: Currency Symbol
+        type: string
+      - name: footerNote
+        label: Footer Message
+        type: text
+      - name: logo
+        label: Official FIA Logo Image (optional)
+        type: image
+        options:
+          extensions: [png, jpg, jpeg, webp, svg]
+      - name: siteUrl
+        label: Public Website Address (for link previews)
+        type: string
+        description: The full https address customers use, with no slash at the end. Example https://fia-women.pages.dev. Needed so shared product links show a photo and title on Facebook and WhatsApp. Change it when you move to Netlify or a custom domain.
+      - name: ogImage
+        label: Link Preview Image for Home Page (optional)
+        type: image
+        description: Shown when the home page link is shared. Best at 1200 x 630. If empty, the first product photo is used.
+        options:
+          extensions: [png, jpg, jpeg, webp]
+
+  - name: shop-info
+    label: FIA Store Pages & Policies
+    type: file
+    path: data/site-info.json
+    format: json
+    fields:
+      - name: about
+        label: About FIA
+        type: text
+      - name: delivery
+        label: Delivery & COD Information
+        type: text
+      - name: returns
+        label: Returns and Replacement Information
+        type: text
+      - name: sizeIntro
+        label: Size Guide Introduction
+        type: text
+      - name: privacy
+        label: Privacy Information
+        type: text
+      - name: customerCare
+        label: Contact / Customer Care
+        type: text
+      - name: highlights
+        label: Promise Badges (shown on every product page and in link previews)
+        type: string
+        list: true
+        description: Short phrases such as Quality guaranteed or Delivery ৳70 inside Dhaka.
+
+  - name: size-guide
+    label: FIA Verified Size Chart
+    type: file
+    path: data/sizes.json
+    format: json
+    list: true
+    fields:
+      - name: collection
+        label: Collection
+        type: string
+        required: true
+      - name: waistMin
+        label: Waist Minimum (inches, verified only)
+        type: number
+      - name: waistMax
+        label: Waist Maximum (inches, verified only)
+        type: number
+      - name: length
+        label: Garment Length (inches)
+        type: number
+      - name: hemFlat
+        label: Hem Width Flat (inches)
+        type: number
+      - name: notes
+        label: Notes
+        type: text

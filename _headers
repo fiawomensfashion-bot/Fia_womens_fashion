@@ -1,0 +1,45 @@
+# FIA headers. Work on Cloudflare Pages AND Netlify (same file, copied into dist by the build).
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), camera=(), microphone=(), payment=()
+  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; connect-src 'self'; object-src 'none'; frame-ancestors 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests
+
+# Hashed assets are safe to cache for a year, with a new URL on change.
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+/images/optimized/*
+  Cache-Control: public, max-age=31536000, immutable
+/products.*.js
+  Cache-Control: public, max-age=31536000, immutable
+/image-manifest.*.js
+  Cache-Control: public, max-age=31536000, immutable
+
+# HTML and the tiny update-check endpoint must NEVER be stored in the
+# browser cache; the same applies to legacy unversioned JS URLs.
+# Versioned JS above remains cached for a year, without risking stale prices.
+/products.js
+  Cache-Control: no-store
+/image-manifest.js
+  Cache-Control: no-store
+/site-version.json
+  Cache-Control: no-store
+/index.html
+  Cache-Control: no-store
+/
+  Cache-Control: no-store
+
+# All HTML documents are fresh when visitors revisit or share a product.
+/p/*
+  Cache-Control: no-store
+/about/*
+  Cache-Control: no-store
+/delivery/*
+  Cache-Control: no-store
+/returns/*
+  Cache-Control: no-store
+/privacy/*
+  Cache-Control: no-store
+/size-guide/*
+  Cache-Control: no-store

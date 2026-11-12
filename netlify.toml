@@ -1,0 +1,8 @@
+# Netlify settings, ready for when the site moves from Cloudflare to Netlify.
+# Cloudflare Pages ignores this file (it uses the dashboard build settings).
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
