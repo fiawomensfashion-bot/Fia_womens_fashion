@@ -1,20 +1,17 @@
 [
   {
-    "title": "Buy 3 Swiss Cotton Plazos, Get 1 Signature Linen Plazo FREE",
-    "text": "Order any three Swiss Cotton Plazos and get one Signature Linen Plazo free. Tell us your colour choices when you message us (subject to colour availability).",
-    "badge": "FREE PLAZO",
-    "ends": ""
+    "title": "Buy 3 Swiss Cotton Plazos or Skirts, Get 1 Signature Linen Plazo FREE",
+    "text": "Order any three Swiss Cotton Plazos or Skirts in any combination and get one Signature Linen Plazo free. Tell us your colour choices when you message us (subject to colour availability).",
+    "badge": "FREE PLAZO"
   },
   {
     "title": "Buy 3 Signature Linen Plazos, Get Free Delivery",
     "text": "Order any three Signature Linen Plazos together and your delivery is free.",
-    "badge": "FREE DELIVERY",
-    "ends": ""
+    "badge": "FREE DELIVERY"
   },
   {
     "title": "Quality Guaranteed & Free Replacement",
     "text": "Every FIA piece is quality guaranteed. If something is not right, we replace it free within 7 days of delivery, no questions asked. This guarantee is always on and never expires.",
-    "badge": "ALWAYS ON",
-    "ends": ""
+    "badge": "ALWAYS ON"
   }
 ]
