@@ -114,9 +114,16 @@
         "id": "FIA-LP-01-PUR",
         "color": "Purple",
         "hex": "#71398F",
+        "images": [
+          "/images/linen-plazo/Casual Palazzo Style by Sunlight-compresso.webp",
+          "/images/linen-plazo/Magenta Pleated Waistband Detail-compresso.webp",
+          "/images/linen-plazo/magenta_palazzo_actual_linen_texture-compresso.webp",
+          "/images/linen-plazo/Flowy Purple Linen Palazzo Ad_clean-compresso.webp",
+          "/images/linen-plazo/Gemini_Generated_Image_4vr9jv4vr9jv4vr9_clean-compresso.webp"
+        ],
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the purple colour; lighting can make a shade look slightly different on your screen.",
-        "inStock": false,
-        "featured": false
+        "inStock": true,
+        "featured": true
       },
       {
         "id": "FIA-LP-01-WHT",
