@@ -356,17 +356,15 @@
         "color": "Rose",
         "hex": "#C35E76",
         "images": [
-          "/images/swiss-cotton-skirt/rose-1.webp",
-          "/images/swiss-cotton-skirt/rose-2.webp",
-          "/images/swiss-cotton-skirt/rose-3.webp",
-          "/images/swiss-cotton-skirt/rose-4.webp",
-          "/images/swiss-cotton-skirt/rose-5.webp",
-          "/images/swiss-cotton-skirt/rose-6.webp",
-          "/images/swiss-cotton-skirt/rose-7.webp"
+          "/images/swiss-cotton-skirt/fia_rose_skirt_bold_pose_9x16_clean-compresso.webp",
+          "/images/swiss-cotton-skirt/Deep Rose Ruched Waistband Detail-1_clean-compresso.webp",
+          "/images/swiss-cotton-skirt/fabric_texture_9x16_clean-compresso.webp",
+          "/images/swiss-cotton-skirt/Warm Editorial Skirt Fashion Ad-compresso.webp",
+          "/images/swiss-cotton-skirt/fia_rose_skirt_sitting_reading_9x16_clean-compresso.webp"
         ],
         "description": "A flowing Swiss cotton skirt for everyday outfits and easy styling. Free size. Photos show the rose colour; lighting can make a shade look slightly different on your screen.",
-        "inStock": false,
-        "featured": false
+        "inStock": true,
+        "featured": true
       },
       {
         "id": "FIA-SK-01-WHT",
