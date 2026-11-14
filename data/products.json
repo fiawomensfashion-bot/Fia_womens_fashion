@@ -41,22 +41,28 @@
         "color": "Ash Grey",
         "hex": "#92919A",
         "images": [
-          "/images/linen-plazo/ash-grey-1.webp",
-          "/images/linen-plazo/ash-grey-2.webp"
+          "/images/linen-plazo/Gathered Gray Linen Waistband-compresso.webp",
+          "/images/linen-plazo/grey_linen_palazzo_real_fabric_texture-compresso.webp",
+          "/images/linen-plazo/Flowy Linen Palazzo Fashion Poster (1)_clean-compresso.webp",
+          "/images/linen-plazo/Gemini_Generated_Image_wjzaylwjzaylwjza_clean-compresso.webp"
         ],
+        "oldPrice": 300,
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the ash grey colour; lighting can make a shade look slightly different on your screen.",
-        "inStock": false,
-        "featured": false
+        "inStock": true,
+        "featured": true
       },
       {
         "id": "FIA-LP-01-BLK",
         "color": "Black",
         "hex": "#272428",
         "images": [
-          "/images/linen-plazo/black-1.webp",
-          "/images/linen-plazo/black-2.webp",
-          "/images/linen-plazo/black-3.webp"
+          "/images/linen-plazo/Sunlit Courtyard Palazzo Style-compresso.webp",
+          "/images/linen-plazo/ChatGPT Image Nov 11, 2026, 12_06_19 AM-1-compresso.webp",
+          "/images/linen-plazo/ChatGPT Image Nov 11, 2026, 12_06_20 AM-2-compresso.webp",
+          "/images/linen-plazo/Flowy Linen Palazzo Fashion Poster (2)_clean-compresso.webp",
+          "/images/linen-plazo/Gemini_Generated_Image_jnzbpsjnzbpsjnzb_clean-compresso.webp"
         ],
+        "oldPrice": 300,
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the black colour; lighting can make a shade look slightly different on your screen.",
         "inStock": false,
         "featured": false
