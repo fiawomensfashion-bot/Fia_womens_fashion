@@ -293,7 +293,7 @@
         "oldPrice": 500,
         "description": "A Swiss cotton plazo designed for everyday comfort and versatile styling. Elastic waistband with an adjustable matching-fabric tie. Free size. Photos show the black colour; lighting can make a shade look slightly different on your screen.",
         "inStock": true,
-        "featured": false
+        "featured": true
       },
       {
         "id": "FIA-SP-03",
