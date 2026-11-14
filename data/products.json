@@ -121,6 +121,7 @@
           "/images/linen-plazo/Flowy Purple Linen Palazzo Ad_clean-compresso.webp",
           "/images/linen-plazo/Gemini_Generated_Image_4vr9jv4vr9jv4vr9_clean-compresso.webp"
         ],
+        "oldPrice": 300,
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the purple colour; lighting can make a shade look slightly different on your screen.",
         "inStock": true,
         "featured": true
@@ -136,24 +137,26 @@
           "/images/linen-plazo/Flowy White Linen Palazzo Pants_clean-compresso.webp",
           "/images/linen-plazo/Gemini_Generated_Image_a0zd5sa0zd5sa0zd_clean-compresso.webp"
         ],
+        "oldPrice": 300,
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the white colour; lighting can make a shade look slightly different on your screen.",
-        "inStock": false,
-        "featured": false
+        "inStock": true,
+        "featured": true
       },
       {
         "id": "FIA-LP-01-TUR",
         "color": "Turquoise",
         "hex": "#159FBE",
         "images": [
-          "/images/linen-plazo/turquoise-1.webp",
-          "/images/linen-plazo/turquoise-2.webp",
-          "/images/linen-plazo/turquoise-3.webp",
-          "/images/linen-plazo/turquoise-4.webp",
-          "/images/linen-plazo/turquoise-5.webp"
+          "/images/linen-plazo/Sunlit Casual Style on a Wooden Bench-compresso.webp",
+          "/images/linen-plazo/Turquoise Gathered Waistband Detail-compresso.webp",
+          "/images/linen-plazo/Turquoise Ruched Fabric Texture Close-Up-2-compresso.webp",
+          "/images/linen-plazo/Gemini_Generated_Image_3bsbog3bsbog3bsb_clean-compresso.webp",
+          "/images/linen-plazo/Gemini_Generated_Image_oew2zboew2zboew2_clean-compresso.webp"
         ],
+        "oldPrice": 300,
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the turquoise colour; lighting can make a shade look slightly different on your screen.",
-        "inStock": false,
-        "featured": false
+        "inStock": true,
+        "featured": true
       },
       {
         "id": "FIA-LP-01-BRY",
