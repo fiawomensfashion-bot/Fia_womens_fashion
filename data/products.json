@@ -387,18 +387,17 @@
       }
     ],
     "images": [
-      "/images/swiss-cotton-skirt/black-1.webp",
-      "/images/swiss-cotton-skirt/black-2.webp",
-      "/images/swiss-cotton-skirt/black-3.webp",
-      "/images/swiss-cotton-skirt/black-4.webp",
-      "/images/swiss-cotton-skirt/black-5.webp",
-      "/images/swiss-cotton-skirt/black-6.webp"
+      "/images/swiss-cotton-skirt/ChatGPT Image Nov 7, 2026, 07_04_33 AM-3_clean-compresso.webp",
+      "/images/swiss-cotton-skirt/Textured Black Ruched Waist Skirt-3_clean-compresso.webp",
+      "/images/swiss-cotton-skirt/Textured Black Fabric Folds-4_clean-compresso.webp",
+      "/images/swiss-cotton-skirt/Flowy Swiss Cotton Skirt Advertisement-compresso.webp",
+      "/images/swiss-cotton-skirt/ChatGPT Image Nov 7, 2026, 07_04_34 AM-5_clean-compresso.webp"
     ],
     "description": "A flowing Swiss cotton skirt for everyday outfits and easy styling. Free size. Photos show the black colour; lighting can make a shade look slightly different on your screen.",
     "fabric": "Swiss cotton",
     "size": "Free size",
     "design": "Flowing skirt",
-    "inStock": false,
-    "featured": false
+    "inStock": true,
+    "featured": true
   }
 ]
