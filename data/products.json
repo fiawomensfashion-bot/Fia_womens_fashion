@@ -371,17 +371,15 @@
         "color": "White",
         "hex": "#F7F7F3",
         "images": [
-          "/images/swiss-cotton-skirt/white-1.webp",
-          "/images/swiss-cotton-skirt/white-2.webp",
-          "/images/swiss-cotton-skirt/white-3.webp",
-          "/images/swiss-cotton-skirt/white-4.webp",
-          "/images/swiss-cotton-skirt/white-5.webp",
-          "/images/swiss-cotton-skirt/white-6.webp",
-          "/images/swiss-cotton-skirt/white-7.webp"
+          "/images/swiss-cotton-skirt/fia_white_skirt_standing_movement_9x16_clean-compresso.webp",
+          "/images/swiss-cotton-skirt/Textured White Ruffle Waistband Detail-1_clean-compresso.webp",
+          "/images/swiss-cotton-skirt/Close-Up of Crinkled White Fabric-2_clean-compresso.webp",
+          "/images/swiss-cotton-skirt/Flowy Skirt Boutique Advertisement-compresso.webp",
+          "/images/swiss-cotton-skirt/fia_white_skirt_sitting_relaxed_9x16_clean-compresso.webp"
         ],
         "description": "A flowing Swiss cotton skirt for everyday outfits and easy styling. Free size. Photos show the white colour; lighting can make a shade look slightly different on your screen.",
-        "inStock": false,
-        "featured": false
+        "inStock": true,
+        "featured": true
       }
     ],
     "images": [
