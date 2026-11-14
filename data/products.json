@@ -300,38 +300,34 @@
         "color": "White",
         "hex": "#F7F7F3",
         "images": [
-          "/images/swiss-cotton-plazo/white-1.webp",
-          "/images/swiss-cotton-plazo/white-2.webp",
-          "/images/swiss-cotton-plazo/white-3.webp",
-          "/images/swiss-cotton-plazo/white-4.webp",
-          "/images/swiss-cotton-plazo/white-5.webp",
-          "/images/swiss-cotton-plazo/white-6.webp",
-          "/images/swiss-cotton-plazo/white-7.webp",
-          "/images/swiss-cotton-plazo/white-8.webp",
-          "/images/swiss-cotton-plazo/white-9.webp"
+          "/images/swiss-cotton-plazo/Airy All-White Wide-Leg Look-3_clean-compresso.webp",
+          "/images/swiss-cotton-plazo/Textured White Garment Waistband Detail-2_clean-compresso.webp",
+          "/images/swiss-cotton-plazo/Crisp White Crepe Fabric Folds-4_clean-compresso.webp",
+          "/images/swiss-cotton-plazo/Flowy Palazzo Fashion Poster_clean-compresso.webp",
+          "/images/swiss-cotton-plazo/Flowy White Palazzo Essentials-3_clean-compresso.webp"
         ],
         "price": 400,
         "oldPrice": 500,
         "description": "A Swiss cotton plazo designed for everyday comfort and versatile styling. Elastic waistband with an adjustable matching-fabric tie. Free size. Photos show the white colour; lighting can make a shade look slightly different on your screen.",
         "inStock": true,
-        "featured": false
+        "featured": true
       },
       {
         "id": "FIA-SP-03-MAR",
         "color": "Burgundy",
         "hex": "#75283B",
         "images": [
-          "/images/swiss-cotton-plazo/burgundy-1.webp",
-          "/images/swiss-cotton-plazo/burgundy-2.webp",
-          "/images/swiss-cotton-plazo/burgundy-3.webp",
-          "/images/swiss-cotton-plazo/burgundy-4.webp",
-          "/images/swiss-cotton-plazo/burgundy-5.webp"
+          "/images/swiss-cotton-plazo/Burgundy Palazzo Pants in Minimalist Light_clean-compresso.webp",
+          "/images/swiss-cotton-plazo/waist_closeup_9x16_clean-compresso.webp",
+          "/images/swiss-cotton-plazo/Raspberry Red Crepe Fabric Folds-2_clean-compresso.webp",
+          "/images/swiss-cotton-plazo/Maroon Palazzo Fashion Poster_clean-compresso.webp",
+          "/images/swiss-cotton-plazo/Confident Burgundy Palazzo Portrait_clean-compresso.webp"
         ],
         "price": 400,
         "oldPrice": 500,
         "description": "A Swiss cotton plazo designed for everyday comfort and versatile styling. Elastic waistband with an adjustable matching-fabric tie. Free size. Photos show the burgundy colour; lighting can make a shade look slightly different on your screen.",
         "inStock": true,
-        "featured": false
+        "featured": true
       }
     ],
     "images": [
