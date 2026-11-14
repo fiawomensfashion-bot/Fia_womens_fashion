@@ -87,14 +87,16 @@
         "color": "Mustard Yellow",
         "hex": "#DFAE24",
         "images": [
-          "/images/linen-plazo/mustard-yellow-1.webp",
-          "/images/linen-plazo/mustard-yellow-2.webp",
-          "/images/linen-plazo/mustard-yellow-3.webp",
-          "/images/linen-plazo/mustard-yellow-4.webp"
+          "/images/linen-plazo/Sunlit Fashion Portrait with Yellow Palazzo Pants-compresso.webp",
+          "/images/linen-plazo/Yellow Fabric and Waistband Close-Ups-compresso.webp",
+          "/images/linen-plazo/Golden Yellow Woven Fabric Waves-compresso.webp",
+          "/images/linen-plazo/Flowy Linen Palazzo Pants (1)_clean-compresso.webp",
+          "/images/linen-plazo/Gemini_Generated_Image_6euway6euway6euw_clean-compresso.webp"
         ],
+        "oldPrice": 300,
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the mustard yellow colour; lighting can make a shade look slightly different on your screen.",
-        "inStock": false,
-        "featured": false
+        "inStock": true,
+        "featured": true
       },
       {
         "id": "FIA-LP-01-IVR",
@@ -112,9 +114,6 @@
         "id": "FIA-LP-01-PUR",
         "color": "Purple",
         "hex": "#71398F",
-        "images": [
-          "/images/linen-plazo/purple-1.webp"
-        ],
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the purple colour; lighting can make a shade look slightly different on your screen.",
         "inStock": false,
         "featured": false
