@@ -162,9 +162,6 @@
         "id": "FIA-LP-01-BRY",
         "color": "Berry",
         "hex": "#B33367",
-        "images": [
-          "/images/linen-plazo/berry-1.webp"
-        ],
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the berry colour; lighting can make a shade look slightly different on your screen.",
         "inStock": false,
         "featured": false
@@ -173,11 +170,6 @@
         "id": "FIA-LP-01-HPK",
         "color": "Hot Pink",
         "hex": "#E94887",
-        "images": [
-          "/images/linen-plazo/hot-pink-1.webp",
-          "/images/linen-plazo/hot-pink-2.webp",
-          "/images/linen-plazo/hot-pink-3.webp"
-        ],
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the hot pink colour; lighting can make a shade look slightly different on your screen.",
         "inStock": false,
         "featured": false
@@ -186,13 +178,10 @@
         "id": "FIA-LP-01-NVY",
         "color": "Navy Blue",
         "hex": "#343C7E",
-        "images": [
-          "/images/linen-plazo/navy-blue-1.webp",
-          "/images/linen-plazo/navy-blue-2.webp"
-        ],
+        "oldPrice": 300,
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the navy blue colour; lighting can make a shade look slightly different on your screen.",
-        "inStock": false,
-        "featured": false
+        "inStock": true,
+        "featured": true
       },
       {
         "id": "FIA-LP-01-PCH",
