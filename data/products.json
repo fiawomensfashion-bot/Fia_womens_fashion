@@ -66,13 +66,15 @@
         "color": "Orange",
         "hex": "#E76B2E",
         "images": [
-          "/images/linen-plazo/orange-1.webp",
-          "/images/linen-plazo/orange-2.webp",
-          "/images/linen-plazo/orange-3.webp"
+          "/images/linen-plazo/Flowy Linen Palazzo Fashion Poster_clean-compresso.webp",
+          "/images/linen-plazo/Gemini_Generated_Image_5zj295zj295zj295_clean-compresso.webp",
+          "/images/linen-plazo/orange_palazzo_waist_closeup-compresso.webp",
+          "/images/linen-plazo/orange_linen_fabric_detail-compresso.webp",
+          "/images/linen-plazo/Vibrant Orange Pants Courtyard Look-compresso.webp"
         ],
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the orange colour; lighting can make a shade look slightly different on your screen.",
-        "inStock": false,
-        "featured": false
+        "inStock": true,
+        "featured": true
       },
       {
         "id": "FIA-LP-01-MUS",
