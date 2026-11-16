@@ -104,14 +104,6 @@
         "featured": true
       },
       {
-        "id": "FIA-LP-01-IVR",
-        "color": "Ivory",
-        "hex": "#EEE7D8",
-        "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the ivory colour; lighting can make a shade look slightly different on your screen.",
-        "inStock": false,
-        "featured": false
-      },
-      {
         "id": "FIA-LP-01-PUR",
         "color": "Purple",
         "hex": "#71398F",
@@ -156,14 +148,6 @@
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the turquoise colour; lighting can make a shade look slightly different on your screen.",
         "inStock": true,
         "featured": true
-      },
-      {
-        "id": "FIA-LP-01-BRY",
-        "color": "Berry",
-        "hex": "#B33367",
-        "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the berry colour; lighting can make a shade look slightly different on your screen.",
-        "inStock": false,
-        "featured": false
       },
       {
         "id": "FIA-LP-01-HPK",
