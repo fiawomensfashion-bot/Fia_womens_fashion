@@ -19,6 +19,7 @@
           "/images/linen-plazo/Red Linen Palazzo Poster_clean-compresso.webp",
           "/images/linen-plazo/Gemini_Generated_Image_nbh1zonbh1zonbh1_clean-compresso.webp"
         ],
+        "oldPrice": 300,
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the red colour; lighting can make a shade look slightly different on your screen.",
         "inStock": true,
         "featured": true
@@ -34,6 +35,7 @@
           "/images/linen-plazo/Mauve Linen Palazzo Fashion Poster_clean-compresso.webp",
           "/images/linen-plazo/Gemini_Generated_Image_4vr9jv4vr9jv4vr9_clean-compresso.webp"
         ],
+        "oldPrice": 300,
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the mauve colour; lighting can make a shade look slightly different on your screen.",
         "inStock": true,
         "featured": true
@@ -66,8 +68,8 @@
         ],
         "oldPrice": 300,
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the black colour; lighting can make a shade look slightly different on your screen.",
-        "inStock": false,
-        "featured": false
+        "inStock": true,
+        "featured": true
       },
       {
         "id": "FIA-LP-01-ORG",
@@ -80,6 +82,7 @@
           "/images/linen-plazo/orange_linen_fabric_detail-compresso.webp",
           "/images/linen-plazo/Vibrant Orange Pants Courtyard Look-compresso.webp"
         ],
+        "oldPrice": 300,
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the orange colour; lighting can make a shade look slightly different on your screen.",
         "inStock": true,
         "featured": true
@@ -104,10 +107,6 @@
         "id": "FIA-LP-01-IVR",
         "color": "Ivory",
         "hex": "#EEE7D8",
-        "images": [
-          "/images/linen-plazo/ivory-1.webp",
-          "/images/linen-plazo/ivory-2.webp"
-        ],
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the ivory colour; lighting can make a shade look slightly different on your screen.",
         "inStock": false,
         "featured": false
@@ -117,11 +116,9 @@
         "color": "Purple",
         "hex": "#71398F",
         "images": [
-          "/images/linen-plazo/Casual Palazzo Style by Sunlight-compresso.webp",
-          "/images/linen-plazo/Magenta Pleated Waistband Detail-compresso.webp",
-          "/images/linen-plazo/magenta_palazzo_actual_linen_texture-compresso.webp",
           "/images/linen-plazo/Flowy Purple Linen Palazzo Ad_clean-compresso.webp",
-          "/images/linen-plazo/Gemini_Generated_Image_4vr9jv4vr9jv4vr9_clean-compresso.webp"
+          "/images/linen-plazo/Magenta Pleated Waistband Detail-compresso.webp",
+          "/images/linen-plazo/magenta_palazzo_actual_linen_texture-compresso.webp"
         ],
         "oldPrice": 300,
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the purple colour; lighting can make a shade look slightly different on your screen.",
@@ -172,14 +169,27 @@
         "id": "FIA-LP-01-HPK",
         "color": "Hot Pink",
         "hex": "#E94887",
+        "images": [
+          "/images/linen-plazo/Sunlit Minimalist Pink Pants Portrait-compresso.webp",
+          "/images/linen-plazo/pink_palazzo_actual_linen_texture-compresso.webp",
+          "/images/linen-plazo/pink_palazzo_waist_closeup-compresso.webp",
+          "/images/linen-plazo/Gemini_Generated_Image_ucx4zsucx4zsucx4_clean-compresso.webp",
+          "/images/linen-plazo/Gemini_Generated_Image_5jjln75jjln75jjl_clean-compresso.webp"
+        ],
+        "oldPrice": 300,
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the hot pink colour; lighting can make a shade look slightly different on your screen.",
-        "inStock": false,
-        "featured": false
+        "inStock": true,
+        "featured": true
       },
       {
         "id": "FIA-LP-01-NVY",
         "color": "Navy Blue",
         "hex": "#343C7E",
+        "images": [
+          "/images/linen-plazo/Blue Linen Palazzo Pants Poster_clean-compresso.webp",
+          "/images/linen-plazo/blue_palazzo_waist_detail-compresso.webp",
+          "/images/linen-plazo/blue_palazzo_actual_fabric_detail-compresso.webp"
+        ],
         "oldPrice": 300,
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the navy blue colour; lighting can make a shade look slightly different on your screen.",
         "inStock": true,
@@ -190,72 +200,84 @@
         "color": "Peach",
         "hex": "#EEB18C",
         "images": [
-          "/images/linen-plazo/peach-1.webp",
-          "/images/linen-plazo/peach-2.webp",
-          "/images/linen-plazo/peach-3.webp"
+          "/images/linen-plazo/Sunlit Peach Palazzo Portrait-compresso.webp",
+          "/images/linen-plazo/Peach Gathered Waist Garment-1-compresso.webp",
+          "/images/linen-plazo/Peach Linen Folds in Close-Up-2-compresso.webp",
+          "/images/linen-plazo/Peach Linen Palazzo Pants Ad_clean-compresso.webp",
+          "/images/linen-plazo/Gemini_Generated_Image_a447pla447pla447_clean-compresso.webp"
         ],
+        "oldPrice": 300,
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the peach colour; lighting can make a shade look slightly different on your screen.",
-        "inStock": false,
-        "featured": false
+        "inStock": true,
+        "featured": true
       },
       {
         "id": "FIA-LP-01-RBL",
         "color": "Royal Blue",
         "hex": "#315AB6",
         "images": [
-          "/images/linen-plazo/royal-blue-1.webp",
-          "/images/linen-plazo/royal-blue-2.webp"
+          "/images/linen-plazo/Gemini_Generated_Image_co1t3aco1t3aco1t_clean-compresso.webp",
+          "/images/linen-plazo/Cobalt Blue Waistband and Fabric Texture-compresso.webp",
+          "/images/linen-plazo/blue_fabric_closeup-compresso.webp"
         ],
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the royal blue colour; lighting can make a shade look slightly different on your screen.",
-        "inStock": false,
-        "featured": false
+        "inStock": true,
+        "featured": true
       },
       {
         "id": "FIA-LP-01-DTL",
         "color": "Dark Teal",
         "hex": "#245A59",
         "images": [
-          "/images/linen-plazo/dark-teal-1.webp",
-          "/images/linen-plazo/dark-teal-2.webp",
-          "/images/linen-plazo/dark-teal-3.webp"
+          "/images/linen-plazo/Warm Sunlit Teal Palazzo Fashion Pose-compresso.webp",
+          "/images/linen-plazo/teal_palazzo_fabric_closeup-compresso.webp",
+          "/images/linen-plazo/teal_palazzo_waist_closeup-compresso.webp",
+          "/images/linen-plazo/Teal Linen Palazzo Pants Advertisement_clean-compresso.webp",
+          "/images/linen-plazo/Gemini_Generated_Image_kqr73tkqr73tkqr7_clean-compresso.webp"
         ],
+        "oldPrice": 300,
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the dark teal colour; lighting can make a shade look slightly different on your screen.",
-        "inStock": false,
-        "featured": false
+        "inStock": true,
+        "featured": true
       },
       {
         "id": "FIA-LP-01-BRG",
         "color": "Burgundy",
         "hex": "#75283B",
         "images": [
-          "/images/linen-plazo/burgundy-1.webp"
+          "/images/linen-plazo/Gemini_Generated_Image_ov3dczov3dczov3d_clean-compresso.webp"
         ],
+        "oldPrice": 300,
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the burgundy colour; lighting can make a shade look slightly different on your screen.",
-        "inStock": false,
-        "featured": false
+        "inStock": true,
+        "featured": true
       },
       {
         "id": "FIA-LP-01-BRN",
         "color": "Brown",
         "hex": "#784538",
         "images": [
-          "/images/linen-plazo/brown-1.webp"
+          "/images/linen-plazo/Gemini_Generated_Image_ruk931ruk931ruk9_clean-compresso.webp"
         ],
+        "oldPrice": 300,
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the brown colour; lighting can make a shade look slightly different on your screen.",
-        "inStock": false,
-        "featured": false
+        "inStock": true,
+        "featured": true
       },
       {
         "id": "FIA-LP-01-BPK",
         "color": "Blush Pink",
         "hex": "#E8A5BE",
         "images": [
-          "/images/linen-plazo/blush-pink-1.webp",
-          "/images/linen-plazo/blush-pink-2.webp"
+          "/images/linen-plazo/Gemini_Generated_Image_tzl68stzl68stzl6_clean-compresso.webp",
+          "/images/linen-plazo/ChatGPT Image Nov 13, 2026, 04_53_06 AM-1-compresso.webp",
+          "/images/linen-plazo/ChatGPT Image Nov 13, 2026, 04_53_07 AM-2-compresso.webp",
+          "/images/linen-plazo/Gemini_Generated_Image_xrhq6zxrhq6zxrhq_clean-compresso.webp"
         ],
+        "oldPrice": 300,
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the blush pink colour; lighting can make a shade look slightly different on your screen.",
-        "inStock": false,
-        "featured": false
+        "inStock": true,
+        "featured": true
       }
     ],
     "images": [
