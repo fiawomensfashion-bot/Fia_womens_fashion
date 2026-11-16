@@ -28,13 +28,15 @@
         "color": "Mauve",
         "hex": "#965176",
         "images": [
-          "/images/linen-plazo/mauve-1.webp",
-          "/images/linen-plazo/mauve-2.webp",
-          "/images/linen-plazo/mauve-3.webp"
+          "/images/linen-plazo/Casual Palazzo Style by Sunlight-compresso.webp",
+          "/images/linen-plazo/pink_palazzo_waist_closeup_from_jpg-compresso.webp",
+          "/images/linen-plazo/pink_palazzo_fabric_closeup-compresso.webp",
+          "/images/linen-plazo/Mauve Linen Palazzo Fashion Poster_clean-compresso.webp",
+          "/images/linen-plazo/Gemini_Generated_Image_4vr9jv4vr9jv4vr9_clean-compresso.webp"
         ],
         "description": "A linen plazo with an easy, flowing wide-leg fall, made for everyday wear and effortless styling. Free size. Photos show the mauve colour; lighting can make a shade look slightly different on your screen.",
-        "inStock": false,
-        "featured": false
+        "inStock": true,
+        "featured": true
       },
       {
         "id": "FIA-LP-01-ASH",
